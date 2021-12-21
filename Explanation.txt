@@ -1,0 +1,5 @@
+I found the template online on some random web site.
+Template itself consists of three pages, however i only recreated the first page of the web site
+by using html, css and a bit of bootstrap knowledge. I tried to make the pixel perfect design.
+The links to the 2nd and 3rd page don't lead to anywhere, since i haven't made them. Otherwise,
+The page that i made looks quite similar to the template itself.
