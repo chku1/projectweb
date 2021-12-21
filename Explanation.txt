@@ -3,3 +3,4 @@ Template itself consists of three pages, however i only recreated the first page
 by using html, css and a bit of bootstrap knowledge. I tried to make the pixel perfect design.
 The links to the 2nd and 3rd page don't lead to anywhere, since i haven't made them. Otherwise,
 The page that i made looks quite similar to the template itself.
+You can see the template on this link: https://www.free-css.com/assets/files/free-css-templates/preview/page259/sided/?fbclid=IwAR1Zp57sC142gOxfBUy2YU4gDvGUSDbWKXDJ-7NB3-nfc8aHUGIJXIoHsvw
